@@ -22,6 +22,11 @@ git clone https://github.com/Darken-Pasiya/Ravana-Store
 sleep 1
 clear
 cd Ravana-Store
+cd music
+mpv finish.m4a
+clear
+cd -
+clear
 echo -e '
 ███████ ██ ███    ██ ██ ███████ ██   ██
 ██      ██ ████   ██ ██ ██      ██   ██
