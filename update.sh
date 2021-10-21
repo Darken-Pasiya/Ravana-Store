@@ -18,6 +18,7 @@ echo -e "Getting Updates...."
 sleep 1
 echo 
 pkg update -y && pkg upgrade -y
+rm -rf Ravana-Store
 git clone https://github.com/Darken-Pasiya/Ravana-Store
 sleep 1
 clear
