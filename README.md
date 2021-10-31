@@ -4,6 +4,8 @@
 
 <p><h3 align="center"><a href="http://wa.me/94782002997"><img src="https://github.com/Darken-Pasiya/Darken-Pasiya/blob/main/PicsArt_04-10-02.10.09.png" width="40" height="40"></a><a href="https://github.com/Darken-Pasiya"><img src="https://github.com/Darken-Pasiya/Darken-Pasiya/blob/main/git.png" width="60" height="60"></a><a href="https://t.me/DarkenPasiya"><img src="https://github.com/Darken-Pasiya/Darken-Pasiya/blob/main/PicsArt_05-11-05.58.55.png" width="40" height="40"></a></p>
 
+<a href="https://github.com/Anonymous-Zpt/T-banner4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya/Ravana-Store?color=blue&style=flat-square"></a>
+
 ![Tool Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya/Ravana-Store&left_color=blueviolet&right_color=brightgreen)
 
 ----
