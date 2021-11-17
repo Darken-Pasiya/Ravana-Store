@@ -11,6 +11,7 @@
 ----
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/Screenshot_20211021_094302.jpg" alt="Bt">
+</p>
 
 `♅ pkg update && pkg upgrade`
 
